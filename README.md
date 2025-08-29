@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Maram, a Data Science student  
+### 👋 Hello! I'm Maram, Data Science student  
 I'm passionate about data analysis, machine learning, and turning data into meaningful insights.
 
 🔧 Skills: Python | Java | SQL | Power BI | Tableau | Excel | R
